@@ -5,6 +5,7 @@
 import numpy as np
 import os
 import cv2
+import hl2ss_imshow
 import hl2ss
 import hl2ss_io
 import hl2ss_mx

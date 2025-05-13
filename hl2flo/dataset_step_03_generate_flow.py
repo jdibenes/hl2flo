@@ -6,6 +6,7 @@ import numpy as np
 import os
 import cv2
 import flow_viz
+import hl2ss_imshow
 import hl2ss
 import hl2ss_3dcv
 import hl2flo
