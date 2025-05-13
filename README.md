@@ -2,7 +2,7 @@
 
 Tool for creating optical flow datasets using HoloLens 2.
 
-This tool depends on the HoloLens positional tracking to perform depth alignment and optical flow estimation.
+This tool depends on the HoloLens positional tracking to perform depth alignment and optical flow estimation, assuming static scenes.
 For best results, please follow the practices described in [HoloLens environment considerations](https://learn.microsoft.com/en-us/hololens/hololens-environment-considerations).
 
 ## Usage
