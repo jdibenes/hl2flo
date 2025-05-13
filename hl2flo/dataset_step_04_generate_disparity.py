@@ -13,7 +13,7 @@ import hl2flo
 # Settings --------------------------------------------------------------------
 
 # Data folder
-path = './data/test_data/'
+path = './data/HL2-2025-05-13-02-38-33/'
 
 # Baseline (in meters)
 baseline = 0.2
