@@ -2,3 +2,4 @@
 calibration/*
 !/calibration/README.md
 /hl2flo/__pycache__
+/hl2flo/data
